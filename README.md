@@ -1,1 +1,2 @@
-# practica-git-github
+# practica Git y Github
+## Instalacion
